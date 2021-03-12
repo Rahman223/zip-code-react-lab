@@ -1,0 +1,8 @@
+.heading {
+  background-color: rgba(230, 230, 230, 1);
+  padding: 8px;
+}
+
+.zips {
+  max-width:fit-content;
+}
